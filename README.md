@@ -1,1 +1,3 @@
 # faulita
+cd 
+gk graph
